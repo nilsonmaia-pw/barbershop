@@ -119,14 +119,17 @@ html{
         display: block;
         margin-left: 0;
         margin-top: 50px;
+        /* font-size: 40px; */
         font-size: 20px;
+        
     }
     .header nav a:hover{
         transform: translateX(40px);
         color: #fff;
     }
     .header .icons{
-        margin-bottom: 10px;
+        /* margin-bottom: 10px; */
+        margin-bottom: 98px;
     }
     .header .icons img{
         width: 40px;
